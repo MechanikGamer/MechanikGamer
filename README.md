@@ -21,10 +21,6 @@ And once I've got these down, I plan to expand my toolbox by adding **TypeScript
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MechanikGamer&layout=compact&theme=merko)
 
-## ⏱️ Weekly Development Breakdown
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MechanikGamer&theme=merko)](https://github.com/MechanikGamer/github-readme-stats)
-
 ## 🛠️ Technologies & Tools
 
 ![](https://img.shields.io/badge/Code-HTML-orange)
