@@ -19,7 +19,7 @@ And once I've got these down, I plan to expand my toolbox by adding **TypeScript
 
 ## 💻 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MechanikGamer&layout=compact&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MechanikGamer&layout=compact&theme=merko)](https://github-readme-stats.vercel.app/api/top-langs/?username=MechanikGamer&layout=compact&theme=merko)
 
 ## 🛠️ Technologies & Tools
 
