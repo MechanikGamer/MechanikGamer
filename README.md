@@ -11,6 +11,8 @@ My journey has taken me through the intricacies of HTML, CSS, and JavaScript —
 - **MongoDB** as my go-to NoSQL database
 - **Express** for robust API development
 
+In addition to these, I'm diving into mobile development with **React Native**. I'm eager to apply my React skills to build cross-platform mobile applications and expand my development capabilities.
+
 And once I've got these down, I plan to expand my toolbox by adding **TypeScript** to the mix for more robust and error-free code.
 
 ## 📈 GitHub Stats
@@ -27,6 +29,7 @@ And once I've got these down, I plan to expand my toolbox by adding **TypeScript
 ![](https://img.shields.io/badge/Code-CSS-blue)
 ![](https://img.shields.io/badge/Code-JavaScript-yellow)
 ![](https://img.shields.io/badge/Framework-React-61DAFB)
+![](https://img.shields.io/badge/Framework-React_Native-61DAFB)
 ![](https://img.shields.io/badge/Runtime-Node.js-green)
 ![](https://img.shields.io/badge/Database-MongoDB-lightgrey)
 ![](https://img.shields.io/badge/Server-Express-lightgrey)
