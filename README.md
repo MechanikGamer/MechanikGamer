@@ -1,47 +1,19 @@
-# Hello there! 👋
 
+Hello there! 👋  
 I'm MechanikGamer, a passionate self-taught web developer and a lifelong learner of coding crafts. I thrive on challenge and constant improvement, pushing the boundaries of what I know by diving into new technologies and coding paradigms.
 
-## 🌱 I'm currently learning...
+🌱 I've progressed significantly in my learning journey...  
+Having mastered the essentials of HTML, CSS, and JavaScript — the core components of web development, I've successfully delved deep into the MERN stack:
 
-My journey has taken me through the intricacies of HTML, CSS, and JavaScript — the building blocks of the web. Now, I've set my sights on mastering the MERN stack:
+- **MongoDB**: My go-to NoSQL database for robust data management.
+- **Express**: For developing powerful APIs.
+- **React**: Utilized in crafting dynamic user interfaces.
+- **Node.js**: Employed for scalable server-side scripting.
 
-- **React** to create dynamic user interfaces
-- **Node.js** for scalable server-side scripting
-- **MongoDB** as my go-to NoSQL database
-- **Express** for robust API development
+I've taken my skills further by developing a cross-platform application using React Native with the Expo framework. This app, which is currently 75% complete and built on a solid backend of MongoDB and Node.js with Express, showcases my ability to create versatile mobile solutions.
 
-In addition to these, I'm diving into mobile development with **React Native**. I'm eager to apply my React skills to build cross-platform mobile applications and expand my development capabilities.
+🔧 I've also started learning TypeScript to leverage its robust features for more reliable and error-free coding. I try to use TypeScript wherever possible to fully harness its advantages.
 
-And once I've got these down, I plan to expand my toolbox by adding **TypeScript** to the mix for more robust and error-free code.
+In addition to my development skills, I have a strong proficiency in Linux server administration, with a particular focus on AWS Cloud. My expertise also extends to Next.js, MERN, and React. Currently, I am working on enhancing my corporate programming skills through practical experiences in a professional setting.
 
-## 📈 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MechanikGamer&show_icons=true&theme=merko)
-
-## 💻 Most Used Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MechanikGamer&layout=compact&theme=merko)](https://github-readme-stats.vercel.app/api/top-langs/?username=MechanikGamer&layout=compact&theme=merko)
-
-## 🛠️ Technologies & Tools
-
-![](https://img.shields.io/badge/Code-HTML-orange)
-![](https://img.shields.io/badge/Code-CSS-blue)
-![](https://img.shields.io/badge/Code-JavaScript-yellow)
-![](https://img.shields.io/badge/Framework-React-61DAFB)
-![](https://img.shields.io/badge/Framework-React_Native-61DAFB)
-![](https://img.shields.io/badge/Runtime-Node.js-green)
-![](https://img.shields.io/badge/Database-MongoDB-lightgrey)
-![](https://img.shields.io/badge/Server-Express-lightgrey)
-![](https://img.shields.io/badge/Tools-AWS-orange)
-![](https://img.shields.io/badge/Tools-LinuxServer-black)
-
-## 💼 Experience
-
-Beyond the code, I have some hands-on experience with **Linux server management** and **Amazon Web Services (AWS)**, which has given me a solid understanding of the cloud infrastructure and deployment strategies. While I've had fun setting up websites on **WordPress**, I'm excited to move on to larger and more complex projects.
-
----
-
-I'm always open to collaborate on projects and innovative/disruptive ideas. Feel free to connect with me:
-
-📧 Email: [tomasz.seredynski@hotmail.com](mailto:tomasz.seredynski@hotmail.com)
+Looking forward to continuing my journey in tech, constantly evolving and refining my skills!
