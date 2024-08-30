@@ -15,9 +15,9 @@ I've taken my skills further by developing a cross-platform application using Re
 
 In addition to my development skills, I have a strong proficiency in Linux server administration, with a particular focus on AWS Cloud. My expertise also extends to Next.js, MERN, and React. Currently, I am working on enhancing my corporate programming skills through practical experiences in a professional setting.
 
-[![wakatime](https://wakatime.com/badge/user/018ba917-106c-4f6c-a1cd-005762e0399a.svg)](https://wakatime.com/@018ba917-106c-4f6c-a1cd-005762e0399a)
-
 Looking forward to continuing my journey in tech, constantly evolving and refining my skills!
+
+[![wakatime](https://wakatime.com/badge/user/018ba917-106c-4f6c-a1cd-005762e0399a.svg)](https://wakatime.com/@018ba917-106c-4f6c-a1cd-005762e0399a)
 
 **Languages & Tools:**  
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
