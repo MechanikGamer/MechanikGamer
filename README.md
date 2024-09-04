@@ -38,6 +38,7 @@ Currently, I’m working on a cross-platform mobile app built with **React Nativ
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Husky](https://img.shields.io/badge/Husky-000000?style=flat-square&logo=husky&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![tRPC](https://img.shields.io/badge/tRPC-2596be?style=flat-square&logo=trpc&logoColor=white)
