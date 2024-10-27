@@ -11,7 +11,7 @@ Currently, I’m working on a cross-platform mobile app built with **React Nativ
 
 🔧 To further refine my skills, I’ve incorporated **TypeScript** into my workflow, harnessing its robust type system to write more reliable, maintainable code. I now use TypeScript wherever possible to reduce bugs and increase code quality.
 
-🚀 **Next on my journey** is tackling larger, more ambitious projects. My goal is to independently build a full-stack application and a React Native app that showcases my advanced skills, implementing best coding practices and techniques. With over 500+ hours tracked on **WakaTime**, I’m confident in my ability to tackle complex problems and deliver high-quality solutions.
+🚀 **Next on my journey** is tackling larger, more ambitious projects. My goal is to independently build a full-stack application and a React Native app that showcases my advanced skills, implementing best coding practices and techniques. With over 600+ hours tracked on **WakaTime**, I’m confident in my ability to tackle complex problems and deliver high-quality solutions.
 
 💻 Additionally, I’m proud to contribute to **Open Source projects** whenever time allows. I’ve helped resolve bugs and enhance functionality in various projects, leveraging my skills to give back to the community.
 
