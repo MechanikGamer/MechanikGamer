@@ -1,19 +1,16 @@
-👋 **Hello, I'm MechanikGamer** — a passionate web developer, lifelong learner, and coding enthusiast, always seeking to push the boundaries of what I know by embracing new technologies and challenging myself with complex projects.
+👋 **Hello, I'm MechanikGamer** — an experienced web developer with a deep passion for building scalable, efficient, and modern applications. I'm always eager to learn and adapt to new technologies that push the boundaries of my knowledge.
 
-🌱 I’ve come a long way in my journey, having mastered the essentials of **HTML**, **CSS**, and **JavaScript** — the cornerstones of modern web development. Diving deeper, I’ve built expertise in the **MERN stack**, using:
+🌱 Over time, I've honed my skills in **React**, **Next.js**, **React Native**, **MongoDB**, **Express**, **Node.js**, and **TypeScript** — forming a strong full-stack expertise centered around the **MERN** stack and mobile development.
 
-- **MongoDB**: My NoSQL database of choice for efficient data management.
-- **Express**: Crafting powerful and scalable APIs.
-- **React**: Building dynamic, interactive user interfaces.
-- **Node.js**: Delivering high-performance, server-side solutions.
+Currently, I’m wrapping up a cross-platform mobile app built with **React Native** and **Expo**, set to be released soon on both **iOS** and **Android**. With careful attention to design details and robust error tracking using **Sentry**, the app is in the final stages before launch.
 
-Currently, I’m working on a cross-platform mobile app built with **React Native** and **Expo**. This app is almost ready to hit the **App Store** and **Google Play**, with just some design refinements and final testing left. I've been using **Sentry** to monitor and manage errors, ensuring a smooth user experience. After thorough testing with friends, the app will soon be live for the world to explore!
+🔧 My stack also includes **Docker** for containerized development, and I leverage a wide array of **AWS services** to ensure scalability and reliability. From **Lambda** for serverless functions to **S3** for storage, I've built solutions that are efficient and scalable for production environments.
 
-🔧 To further refine my skills, I’ve incorporated **TypeScript** into my workflow, harnessing its robust type system to write more reliable, maintainable code. I now use TypeScript wherever possible to reduce bugs and increase code quality.
+I have a strong preference for **TRPC**, which ensures type-safe APIs and simplifies full-stack TypeScript development. My workflow also embraces automation, utilizing **GitHub Actions** and tools like **Husky** to streamline code quality checks, testing with **Jest**, and continuous integration.
 
-🚀 **Next on my journey** is tackling larger, more ambitious projects. My goal is to independently build a full-stack application and a React Native app that showcases my advanced skills, implementing best coding practices and techniques. With over 600+ hours tracked on **WakaTime**, I’m confident in my ability to tackle complex problems and deliver high-quality solutions.
+🚀 **Future Goals**: I aim to continue building large-scale, full-stack applications that showcase modern coding practices and high performance. Having accumulated over 600+ tracked hours on **WakaTime**, I am confident in my ability to solve complex problems and lead projects from concept to production.
 
-💻 Additionally, I’m proud to contribute to **Open Source projects** whenever time allows. I’ve helped resolve bugs and enhance functionality in various projects, leveraging my skills to give back to the community.
+💻 I also contribute to **Open Source projects**, helping improve the community with bug fixes and feature enhancements across multiple repositories.
 
 ---
 
@@ -46,6 +43,6 @@ Currently, I’m working on a cross-platform mobile app built with **React Nativ
 
 ---
 
-I’m always excited to connect with fellow developers, learn from each other, and explore new opportunities in tech. Let’s build something amazing together!
+Let’s connect, collaborate, and build innovative tech solutions together!
 
 [![wakatime](https://wakatime.com/badge/user/018ba917-106c-4f6c-a1cd-005762e0399a.svg)](https://wakatime.com/@018ba917-106c-4f6c-a1cd-005762e0399a)
