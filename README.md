@@ -8,7 +8,7 @@ Currently, I’m wrapping up a cross-platform mobile app built with **React Nati
 
 I have a strong preference for **TRPC**, which ensures type-safe APIs and simplifies full-stack TypeScript development. My workflow also embraces automation, utilizing **GitHub Actions** and tools like **Husky** to streamline code quality checks, testing with **Jest**, and continuous integration.
 
-🚀 **Future Goals**: I aim to continue building large-scale, full-stack applications that showcase modern coding practices and high performance. Having accumulated over 1100+ tracked hours on **WakaTime**, I am confident in my ability to solve complex problems and lead projects from concept to production.
+🚀 **Future Goals**: I aim to continue building large-scale, full-stack applications that showcase modern coding practices and high performance. Having accumulated over 1200+ tracked hours on **WakaTime**, I am confident in my ability to solve complex problems and lead projects from concept to production.
 
 💻 I also contribute to **Open Source projects**, helping improve the community with bug fixes and feature enhancements across multiple repositories.
 
