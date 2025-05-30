@@ -1,0 +1,13 @@
+# Node.js
+node_modules/
+dist/
+*.log
+
+# TypeScript
+*.tsbuildinfo
+
+# macOS system files
+.DS_Store
+
+# dotenv (if you decide to test locally)
+.env
