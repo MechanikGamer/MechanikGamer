@@ -3,7 +3,7 @@ import https from "https";
 
 const API_KEY = process.env.WAKATIME_API_KEY!;
 const FILE_PATH = "./README.md";
-const HOUR_REGEX = /\b(\d{3,4})\+\b/g;
+const HOUR_REGEX = /(\d{3,4})\+/g;
 const MILESTONE_STEP = 100;
 
 function fetchCodingHours(): Promise<number> {
