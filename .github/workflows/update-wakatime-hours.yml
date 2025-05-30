@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * 0"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v3
@@ -26,12 +31,13 @@ jobs:
         env:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
 
-      - name: Commit and push if changed
-        env:
-          GH_PAT: ${{ secrets.GH_PAT }}
+      - name: Commit and push if README changed
         run: |
-          git config --global user.name "MechanikGamer"
-          git config --global user.email "123777101+MechanikGamer@users.noreply.github.com" # optional
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: update WakaTime hours milestone"
-          git push https://x-access-token:${GH_PAT}@github.com/${{ github.repository }} HEAD:main
+          git diff --cached --quiet && echo "✅ No changes to commit" || (
+            git commit -m "chore: update WakaTime hours milestone"
+            git push
+          )
