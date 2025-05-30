@@ -1,0 +1,17 @@
+{
+  "name": "mechanikgamer",
+  "version": "1.0.0",
+  "description": "👋 **Hello, I'm MechanikGamer** — an experienced web developer with a deep passion for building scalable, efficient, and modern applications. I'm always eager to learn and adapt to new technologies that push the boundaries of my knowledge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.27",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
