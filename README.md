@@ -1,16 +1,37 @@
-👋 **Hello, I'm MechanikGamer** — an experienced web developer with a deep passion for building scalable, efficient, and modern applications. I'm always eager to learn and adapt to new technologies that push the boundaries of my knowledge.
+# 👋 Hello, I'm MechanikGamer
 
-🌱 Over time, I've honed my skills in **React**, **Next.js**, **React Native**, **MongoDB**, **Express**, **Node.js**, and **TypeScript** — forming a strong full-stack expertise centered around the **MERN** stack and mobile development.
+I'm a **full-stack web & mobile developer** with a strong focus on scalable, production-ready applications. My tech stack revolves around **TypeScript**, **React**, **Next.js**, **React Native (Expo)**, **tRPC**, and **MongoDB**, with additional experience in **Docker**, **AWS**, and **CI/CD automation** using GitHub Actions.
 
-Currently, I’m wrapping up a cross-platform mobile app built with **React Native** and **Expo**, set to be released soon on both **iOS** and **Android**. With careful attention to design details and robust error tracking using **Sentry**, the app is in the final stages before launch.
+---
 
-🔧 My stack also includes **Docker** for containerized development, and I leverage a wide array of **AWS services** to ensure scalability and reliability. From **Lambda** for serverless functions to **S3** for storage, I've built solutions that are efficient and scalable for production environments.
+## 🚀 What I'm Working On
 
-I have a strong preference for **TRPC**, which ensures type-safe APIs and simplifies full-stack TypeScript development. My workflow also embraces automation, utilizing **GitHub Actions** and tools like **Husky** to streamline code quality checks, testing with **Jest**, and continuous integration.
+- **[SprawdzPrawko.app](https://www.sprawdzprawko.app)** – A web and mobile app for verifying a driver's license and professional qualifications. Built with React Native and Next.js, designed for scalability and usability.
+- **[ADRTesty.pl](https://www.adrtesty.pl)** – A progressive web application for preparing for ADR exams. Includes a full test system, question parser, and analytics dashboard – developed as a complete educational solution for professional drivers.
 
-🚀 **Future Goals**: I aim to continue building large-scale, full-stack applications that showcase modern coding practices and high performance. Having accumulated over 1300+ tracked hours on **WakaTime**, I am confident in my ability to solve complex problems and lead projects from concept to production.
+- Wrapping up a **cross-platform mobile app** (iOS & Android) built with **React Native + Expo**, focused on robust UX, error tracking (via Sentry), and optimized performance.
 
-💻 I also contribute to **Open Source projects**, helping improve the community with bug fixes and feature enhancements across multiple repositories.
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Frontend:** React, Next.js, React Native, TypeScript, Chakra UI, Tailwind
+- **Backend:** Express.js, tRPC, Node.js, MongoDB
+- **DevOps:** Docker, AWS (S3, Lambda), GitHub Actions, Husky, Jest
+- **Mobile:** React Native, Expo Router, cross-platform design patterns
+- **Automation:** CI/CD pipelines, type-safe APIs, full-stack type inference
+
+---
+
+## 👨‍💻 Open Source & Learning
+
+I actively contribute to Open Source projects and continuously improve my skills through real-world challenges. With **1300+ hours tracked on WakaTime**, I combine discipline with curiosity — always exploring the next tool or pattern that can improve the developer experience or user performance.
+
+---
+
+## 🎯 My Mission
+
+To build **modern, efficient, and elegant software** — whether it's for logistics, education, or internal business platforms. I specialize in turning product ideas into functional, well-tested apps with a clean developer experience and robust infrastructure.
 
 ---
 
