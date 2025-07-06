@@ -25,7 +25,7 @@ I'm a **full-stack web & mobile developer** with a strong focus on scalable, pro
 
 ## 👨‍💻 Open Source & Learning
 
-I actively contribute to Open Source projects and continuously improve my skills through real-world challenges. With **1300+ hours tracked on WakaTime**, I combine discipline with curiosity — always exploring the next tool or pattern that can improve the developer experience or user performance.
+I actively contribute to Open Source projects and continuously improve my skills through real-world challenges. With **1400+ hours tracked on WakaTime**, I combine discipline with curiosity — always exploring the next tool or pattern that can improve the developer experience or user performance.
 
 ---
 
