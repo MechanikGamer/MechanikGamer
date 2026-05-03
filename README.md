@@ -6,10 +6,12 @@ I'm a **full-stack web & mobile developer** with a strong focus on scalable, pro
 
 ## 🚀 What I'm Working On
 
-- **[SprawdzPrawko.app](https://www.sprawdzprawko.app)** – A web and mobile app for verifying a driver's license and professional qualifications. Built with React Native and Next.js, designed for scalability and usability.
-- **[ADRTesty.pl](https://www.adrtesty.pl)** – A progressive web application for preparing for ADR exams. Includes a full test system, question parser, and analytics dashboard – developed as a complete educational solution for professional drivers.
+- **[SprawdzPrawko.app](https://www.sprawdzprawko.app)** – A web and mobile app for verifying a driver's license and professional qualifications. Built with React Native and Next.js, designed for scalability and usability. [![Web](https://img.shields.io/badge/Web-000000?style=flat-square&logo=vercel&logoColor=white)](https://www.sprawdzprawko.app) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mechanikgamer.sprawdzprawko) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/sprawd%C5%BA-prawko/id6742269255?l=pl)
+- **[ADRTesty.pl](https://www.adrtesty.pl)** – A progressive web application for preparing for ADR exams. Includes a full test system, question parser, and analytics dashboard – developed as a complete educational solution for professional drivers. [![Web](https://img.shields.io/badge/Web-000000?style=flat-square&logo=vercel&logoColor=white)](https://adrtesty.pl) [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.mechanikgamer.adrtesty) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/pl/app/testy-adr/id6747050221)
 
-- Wrapping up a **cross-platform mobile app** (iOS & Android) built with **React Native + Expo**, focused on robust UX, error tracking (via Sentry), and optimized performance.
+- **[GoFleet Driver](https://play.google.com/store/apps/details?id=com.fcc.gofleet&hl=pl)** – A cross-platform mobile app (iOS & Android) built with **React Native + Expo** for drivers working with GoFleet on platforms like Bolt, Uber, and FREE NOW. Centralizes driver operations: collaboration info, contact with support, ride guidelines, document notifications, and account status — all in one place, paperless and remote. [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.fcc.gofleet&hl=pl) [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/gofleet-driver/id6748383841)
+
+- **[SignupShield.dev](https://signupshield.dev)** – An API-first fraud prevention service that stops fake registrations in milliseconds. Detects disposable emails, risky domains, datacenter IPs, Tor exit nodes, and proxy traffic — returning a single 0–100 risk score per request. Deployed on Edge across 18 regions with p95 under 300ms. Used by 4.2k+ developers to score 14M+ signups.
 
 ---
 
@@ -25,7 +27,7 @@ I'm a **full-stack web & mobile developer** with a strong focus on scalable, pro
 
 ## 👨‍💻 Open Source & Learning
 
-I actively contribute to Open Source projects and continuously improve my skills through real-world challenges. With **1800+ hours tracked on WakaTime**, I combine discipline with curiosity — always exploring the next tool or pattern that can improve the developer experience or user performance.
+I actively contribute to Open Source projects and continuously improve my skills through real-world challenges. With **2000+ hours tracked on WakaTime**, I combine discipline with curiosity — always exploring the next tool or pattern that can improve the developer experience or user performance.
 
 ---
 
